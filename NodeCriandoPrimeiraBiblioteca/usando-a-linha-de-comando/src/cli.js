@@ -35,4 +35,4 @@ async function processaTexto(argumentos) {
     }
 }
 
-processaTexto(caminho);
+// processaTexto(caminho);
