@@ -1,8 +1,8 @@
 A formação Back-end da Alura é um conjunto de cursos que tem como objetivo capacitar os alunos a se tornarem desenvolvedores Back-end. O foco principal da formação é ensinar as tecnologias e conceitos necessários para a construção de sistemas e aplicações que rodam no lado do servidor, como bancos de dados, APIs e servidores web.
 
-A formação inclui diversos módulos, como NodeCriandoPrimeiraBiblioteca, Validando Links, Busca Binária, Algoritmos de Ordenação, Arrays, Objetos, Programação Orientada a Objetos, e Polimorfismo e SOLID. Cada módulo ensina diferentes tecnologias e conceitos, e é estruturado em aulas que incluem vídeos, exercícios e projetos práticos.
+A formação inclui diversos módulos, como Node criando primeira biblioteca, Validando Links, Busca Binária, Algoritmos de Ordenação, Arrays, Objetos, Programação Orientada a Objetos, e Polimorfismo e SOLID. Cada módulo ensina diferentes tecnologias e conceitos, e é estruturado em aulas que incluem vídeos, exercícios e projetos práticos.
 
-No módulo NodeCriandoPrimeiraBiblioteca, o aluno aprende a criar sua primeira biblioteca no Node.js, utilizando conceitos como require e module.exports. Já no módulo Validando Links, o foco é na validação de URLs e links em arquivos Markdown, utilizando o Node.js.
+No módulo Node criando primeira biblioteca, o aluno aprende a criar sua primeira biblioteca no Node.js, utilizando conceitos como require e module.exports. Já no módulo Validando Links, o foco é na validação de URLs e links em arquivos Markdown, utilizando o Node.js.
 
 No módulo Busca Binária, o aluno aprende sobre algoritmos de busca binária, enquanto no módulo Algoritmos de Ordenação, são abordados algoritmos como Bubble Sort, Selection Sort e Insertion Sort.
 
